@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Barlow+Condensed');
+
+body {
+    font-family: 'Barlow Condensed', sans-serif;
+    background: #2b2c2d;
+}
+
+.budowa {
+    background: #cc0000;
+    color: #FFF;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 50px;
+    min-height: 150px;
+    margin-bottom: 20px;
+}
+
+.budowa h1 {
+    font-size: 3rem;
+}
